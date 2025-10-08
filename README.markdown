@@ -16,6 +16,8 @@ This is a simple Python script that fetches real-time exchange rates from the Ex
 
 ## Installation
 1. Clone or download this repository.
+   ```bash
+   git clone https://github.com/Yllodido3d/mini-currency-converter.git
 2. Install the required libraries by running:
    ```bash
    pip install requests pandas
@@ -34,11 +36,6 @@ This is a simple Python script that fetches real-time exchange rates from the Ex
 
 ## Code and Comments
 The code and comments have been translated into English by an AI (Grok, created by xAI) to enhance readability and accessibility for a broader audience. Original logic and structure remain intact, with translations aimed at making the script easier to understand for non-Portuguese speakers.
-
-## Download
-You can download the latest version of this project here:  
-[Download Currency Converter](https://example.com/currency_converter.zip)  
-*(Note: Replace the URL with the actual hosting link when available.)*
 
 ## License
 This project is open-source and available under the MIT License. Feel free to modify and distribute it as needed.
