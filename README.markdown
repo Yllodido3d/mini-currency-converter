@@ -24,7 +24,7 @@ This is a simple Python script that fetches real-time exchange rates from the Ex
    ```
 3. Run the script with:
    ```bash
-   python currency_converter.py
+   python conversormoedaENG.py
    ```
 
 ## Usage
